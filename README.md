@@ -1,2 +1,6 @@
 # wierd-bird
-CLUB   C A B
+
+club  c.a.b
+
+WORLD
+funny. fear. die.
