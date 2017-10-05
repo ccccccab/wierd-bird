@@ -1,2 +1,8 @@
 # wierd-bird
-CLUB   C A B
+
+
+club  c.a.b
+
+
+world
+funny
